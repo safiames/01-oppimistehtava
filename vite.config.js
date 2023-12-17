@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "https://github.com/safiames/bc-portfolio",
+  base: "https://safiames.github.io",
   plugins: [react()],
 });
